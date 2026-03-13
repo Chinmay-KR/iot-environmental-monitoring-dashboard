@@ -25,4 +25,4 @@ Python Sensor Simulator → CSV Data → Tableau Dashboard
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](iot-environmental-monitoring-dashboard/image/dashboard_preview.png)
