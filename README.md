@@ -1,5 +1,3 @@
-# iot-environmental-monitoring-dashboard
-Real-time IoT environmental monitoring dashboard using Python and Tableau
 # Real-Time IoT Environmental Monitoring Dashboard
 
 This project simulates an IoT environmental monitoring system that tracks temperature, humidity, and smoke levels using Python and Tableau.
